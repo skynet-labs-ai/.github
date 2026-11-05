@@ -1,4 +1,4 @@
-# AI Skynet Labs
+# Skynet Labs AI
 
 **The world's first self-aware AI defense network.**
 
